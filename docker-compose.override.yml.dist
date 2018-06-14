@@ -9,7 +9,7 @@ services:
 
     php:
         environment:
-          - maildev_host=sf4_maildev
+          - maildev_host=maildev
 
     blackfire:
         environment:
